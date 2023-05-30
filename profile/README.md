@@ -1,6 +1,6 @@
 <div align="center">
-	<img src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.svg" width="256" />
-	<h3 align="center">App Name</h3>
+	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/ic_launcher-playstore.png" width="256" />
+	<h3 align="center">Recoffeery</h3>
 	<p align="center">
 		An awesome README template to jumpstart your projects!
 		<br />
@@ -38,6 +38,6 @@ Open the app and click register then fill the form
 #### How to detect plant disease
 1. Open the app
 2. Login to your account
-3. Click floating action button
-4. Point the camera into the leaf part of the plan for a better result
+3. Click **Detect Now** button
+4. Point the camera into the leaf part of the plant for a better result
 5. Click capture and wait for the result
