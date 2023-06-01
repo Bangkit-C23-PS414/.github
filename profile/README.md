@@ -13,14 +13,14 @@
 
 Hi everyone! We are from C23-PS414. We consist of 6 people and these are my team members:
 
-|Name|Bangkit ID|Learning Path|
-|--|--|--|
-|Saddam Sinatrya Jalu Mukti|A282DSX1070|Mobile Development|
-|Alfatih Aditya Susanto|A181DSX2732|Mobile Development|
-|Dimas Ichsanul Arifin|M181DSX1804|Machine Learning|
-|Ramdhan Firdaus Amelia|M181DSX0308|Machine Learning|
-|Arizki Putra Rahman|C168DKX3967|Cloud Computing|
-|Muhammad Syukur Abadi|C282DSX0729|Cloud Computing|
+|Name|Bangkit ID|Learning Path|LinkedIn
+|--|--|--|--
+|Saddam Sinatrya Jalu Mukti|A282DSX1070|Mobile Development|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddam-azy/)|
+|Alfatih Aditya Susanto|A181DSX2732|Mobile Development|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfatihaditya/)|
+|Dimas Ichsanul Arifin|M181DSX1804|Machine Learning|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasichsanul/)|
+|Ramdhan Firdaus Amelia|M181DSX0308|Machine Learning|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramdhan-firdaus-amelia/)|
+|Arizki Putra Rahman|C168DKX3967|Cloud Computing|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arizkinewbie/)|
+|Muhammad Syukur Abadi|C282DSX0729|Cloud Computing|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsyukura/)|
 
 ## Theme 🌾
 Food Accessibility, Agribusiness, and Food Security
