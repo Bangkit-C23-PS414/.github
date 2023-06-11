@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/ic_launcher-playstore.png" width="192" />
+	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/ic_launcher-playstore.webp" width="192" />
 	<h3 align="center">Recoffeery</h3>
 	<p align="center">
 		Recoffeery is an Android application that utilizes artificial intelligence and the device's camera to detect and identify coffee leaf disease. It provides a convenient way for coffee farmers and enthusiasts to quickly analyze and diagnose the health of coffee plants by capturing leaf images.
