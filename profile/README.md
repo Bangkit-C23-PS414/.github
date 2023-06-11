@@ -52,7 +52,7 @@ Open the app and click register then fill the form
 6. Wait for the result
 
 ## Features
-- **Leaf Health Assessment**: The app uses AI algorithms to detect and analyze coffee leaves from images captured by the device's camera. Based on the captured image, the app provides an assessment of the health condition of the coffee leaf, such as identifying diseases, pests, or nutrient deficiencies.
+- **Leaf Health Assessment**: The app uses AI algorithms to detect and analyze coffee leaves from images captured by the device's camera. Based on the captured image, the app provides an assessment of the health condition of the coffee leaf.
 - **Image Capture and Gallery**: Users can capture leaf images using the app's built-in camera functionality. Additionally, the app allows users to browse and select images from their device's gallery for analysis.
 - **Results and Recommendations**: The app presents the analysis results and provides recommendations to the user regarding potential remedies or actions to take for maintaining or improving the health of the coffee plants.
 - **Detection History**: Users can view their detection history, including the date and results of previous leaf detections. The history can be filtered based on different criteria.
