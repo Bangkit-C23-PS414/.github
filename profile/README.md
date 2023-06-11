@@ -10,10 +10,10 @@
 
 ## Screenshots
 <div>
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-1.webp" width="256" />
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-2.webp" width="256" />
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-3.webp" width="256" />
-	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-4.webp" width="256" />
+	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-1.webp" width="225" />
+	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-2.webp" width="225" />
+	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-3.webp" width="225" />
+	<img src="https://raw.githubusercontent.com/Bangkit-C23-PS414/.github/main/profile/screenshots/screen-4.webp" width="225" />
 </div>
 
 ## Introduction 👋
