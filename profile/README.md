@@ -38,7 +38,7 @@ Food Accessibility, Agribusiness, and Food Security
 #### Prerequisites
 Android phone and internet connection
 #### Installation
-Download and Install the [APK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Download and Install the [APK](https://drive.google.com/drive/folders/1V2XKaV4dnu7JnO4IOUGGxhCyfIQq9lMY?usp=sharing)
 #### Register
 Open the app and click register then fill the form
 
