@@ -64,6 +64,7 @@ Open the app and click register then fill the form
 - **Detection History**: Users can view their detection history, including the date and results of previous leaf detections. The history can be filtered based on different criteria.
 
 ## Architecture
+![Recoffeery Architecture](https://github.com/Bangkit-C23-PS414/.github/assets/64145699/94b41229-cdbb-44be-9f70-d0b4bd72fcd1)
 The Coffee Leaf Detection App follows a client-server architecture. The client-side, implemented on Android, handles the user interface, image capturing, and displays the results. The server-side consists of the AI algorithms responsible for leaf detection and analysis.
 The communication between the client and server occurs via RESTful APIs. The client sends leaf images to the server for processing, and the server returns the analysis results. The app utilizes machine learning models trained on a dataset of coffee leaf images to achieve accurate leaf detection and health assessment.
 
@@ -94,3 +95,4 @@ The communication between the client and server occurs via RESTful APIs. The cli
 - **Node.js**: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to build scalable and fast network applications, making it a popular choice for backend development.
 
 Note: This list includes some of the major libraries used in the Recofferry App. It may not include all the libraries and dependencies used in the project.
+
