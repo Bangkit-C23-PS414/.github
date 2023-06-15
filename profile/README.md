@@ -30,6 +30,12 @@ Hi everyone! We are from C23-PS414. We consist of 6 people and these are my team
 |Arizki Putra Rahman|C168DKX3967|Cloud Computing|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arizkinewbie/)|
 |Muhammad Syukur Abadi|C282DSX0729|Cloud Computing|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsyukura/)|
 
+**Our Team Advisors**
+|Name|Advisor ID|Learning Path|LinkedIn
+|--|--|--|--
+|Sayed Khaidir Ali|B23-A113|Tech - Cloud and Back End|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-khaidir-ali/)|
+|Hidayaturrahman|B23-A088|Tech - Machine Learning|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayaturrahman/)|
+
 ## Theme 🌾
 Food Accessibility, Agribusiness, and Food Security
 
